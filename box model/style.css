@@ -1,0 +1,15 @@
+img {
+    border: solid 1px red;
+    border-top: solid 5px red;
+    border-left: solid 5px red;
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+}
+div {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(117, 33, 117);
+    border: double 10px rgb(236, 23, 116);
+    margin: auto;
+}
