@@ -1,0 +1,45 @@
+.periodic-table {
+  table-layout: fixed;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.table2 {
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 90%;
+}
+td {
+  width: 50%;
+  padding: 20px;
+}
+
+.element-cell {
+    border: 1px solid black;
+}
+
+/* Estilos para os grupos de elementos */
+.alkali-metals {
+  background-color: #ff9999; /* Vermelho */
+}
+
+.alkaline-earth-metals {
+  background-color: #ffcc99; /* Laranja */
+}
+
+.transition-metals {
+  background-color: #ffff99; /* Amarelo */
+}
+
+.halogens {
+  background-color: #99ff99; /* Verde */
+}
+
+.noble-gases {
+  background-color: #99ccff; /* Azul */
+}
+
+.lanthanides-actinides {
+  background-color: #cc99ff; /* Roxo */
+}
